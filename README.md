@@ -17,3 +17,6 @@ npm run dev
 npm run build
 npm run prod
 ```
+
+## View api documentation
+[REST API](https://github.com/wujingfei1990/koa2-typescript-demo/tree/main/doc)
